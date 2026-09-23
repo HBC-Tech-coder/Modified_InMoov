@@ -14,9 +14,9 @@ import pygame
 import wave
 
 # 讯飞 TTS 配置
-XF_APPID = "54bbe675"
-XF_APIKey = "4d0929a6ec7aa1b2c076dcdb25c7b16d"
-XF_APISecret = "YzMyYTc4Zjc4OGFkNDYwY2U2MmY3ZjQ0"
+XF_APPID = ""
+XF_APIKey = ""
+XF_APISecret = ""
 
 def xunfei_tts_to_wav(text):
     """调用讯飞 WebSocket TTS 接口，生成WAV文件"""
