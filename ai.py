@@ -21,7 +21,7 @@ class DoubaoAI:
         # 豆包API配置
         self.config = {
             "url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
-            "api_key": "e2dad4ed-84dd-4a4a-bd99-9991fab5fc05",
+            "api_key": "",
             "model": "doubao-1-5-lite-32k-250115"
         }
         
